@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of the cause and manner of the apprehending, by the Kings souldiers, William Needle and Mistris Phillips, both dwelling in the town of Banbury in Oxfordshire. Together with their inhumaine usage, whilest they remained close prisoners in the Castle of Banbury. As also the unjust execution of the one, and the barbarous cruelty exercised against the other: being a fit looking-glasse for all misled malignants, to see the clemency and civility of that accursed crew of the cavileers, in that place, and other parts of this Kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90484</idno><idno type="EEBO-CITATION">99865922</idno>
+  <idno type="VID">158411</idno>
+  <idno type="EEBO-PROQUEST">2248499849</idno>
+  
+            <idno type="STC">Wing P1509</idno>
+            <idno type="STC">Thomason E247_13</idno>
+            <idno type="STC">ESTC R206816</idno>
+            <idno type="PROQUEST">99865922</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865922e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158411)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E247[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of the cause and manner of the apprehending, by the Kings souldiers, William Needle and Mistris Phillips, both dwelling in the town of Banbury in Oxfordshire. Together with their inhumaine usage, whilest they remained close prisoners in the Castle of Banbury. As also the unjust execution of the one, and the barbarous cruelty exercised against the other: being a fit looking-glasse for all misled malignants, to see the clemency and civility of that accursed crew of the cavileers, in that place, and other parts of this Kingdome.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Needle, William, d. 1643.</term>
+               <term type="personal_name">Phillips, --  Mistris.</term>
+               <term type="topical_term">Detention of persons --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158411:1"/>
+            <p>A PERFECT RELATION Of the Cause and Manner of the Appre<g ref="char:EOLhyphen"/>hending, by the KINGS Souldiers, <hi>William Needle</hi> and Mistris <hi>Phillips,</hi> Both dwelling in the Town of <hi>Banbury</hi> in <hi>Oxfordshire.</hi>
+            </p>
+            <p>TOGETHER With their inhumaine usage, whilest they remained close Prisoners in the Castle of <hi>Banbury.</hi>
+            </p>
+            <p>AS ALSO The unjust Execution of the one, and the Bar<g ref="char:EOLhyphen"/>barous cruelty exercised against the other: Being a fit Looking-glasse for all misled <hi>Malignants,</hi> to see the Clemency and Civility of that accursed crew of the <hi>Cavileers,</hi> in that place, and other parts of this <hi>Kingdome.</hi>
+            </p>
+            <p>Printed in the yeere 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:158411:2"/>
+            <head>To the Christian Reader.</head>
+            <p>
+               <hi>THat a man should lay downe his life for his friend, seemes strange to vulgar affections; but cheerefully to suffer for a good conscience (in a time when it is coun<g ref="char:EOLhyphen"/>ted treason) is a Mysterie, a Riddle, a thing full of Aenigmaes; yet you shall finde a yong man, (whose pulse hath scarce beat twenty yeeres) in the ensuing Story, forget<g ref="char:EOLhyphen"/>ting the relation he held unto himselfe, and the respect he owed to his owne nature, suffering in the cause of God, his Country, and his friends. Who though he was of meane esteeme among the rabble of the Gentry, his parentage placing him below their feet, yet was he vertuous and religious, and thereby became Noble (for to speake like a Politian, there is a Nobility without Heraldry, a naturall dignity, whereby one man is ranked with another, and filed before him, according to the quality of his desert, and prehemenencie of his good parts, though the corruption of these times, and the byas of most mens practice, wheele another way.) whose piou<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> example, like an experieneed Mendicante, discovers the mercifull aspect of every Christian, and singles out their faces wherein alone are to be found the true signatures and markes of pitty; but condemns the Charity of that accursed rout; whose faith is so small, that they cannot beleeve any thing of this nature: let him therefore that runs (so plaine is it) to the malice of this wicked generation, against Re<g ref="char:EOLhyphen"/>ligion, and those that professe it; and thereby learne to abhorre their impious practises, and pitty those that are in bonds.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:158411:2"/>
+            <head>A Perfect RELATION of the Cause and Manner of the Apprehending, by the <hi>Kings</hi> Soul<g ref="char:EOLhyphen"/>diers, <hi>William Needle</hi> and Mistris <hi>Phillips:</hi> both dwelling in the Towne of <hi>Banbury</hi> in <hi>Oxfordshire.</hi>
+            </head>
+            <p>WHereas Captaine <hi>Trist</hi> and one of His Ma<g ref="char:EOLhyphen"/>jesties Commanders of the Horse, being sore wounded and taken prisoners, by the right Honourable the Lord <hi>Brookes,</hi> his Forces, in the late Skirmish at <hi>Stratford upon Aven,</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d was there left by the mercy of the said Lord, as thought unfit to travell, in respect of his sore hurt, giving sufficient ingage<g ref="char:EOLhyphen"/>ments of his forth-comming a prisoner upon demand. It hap<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed (after the Lord <hi>Brookes</hi> his remove from that Towne) that he was fetcht from thence to <hi>Banbury</hi> by the Kings Soul<g ref="char:EOLhyphen"/>diers, which were there in Garrison; where he had not long continued (but misdoubting the successe of those small meanes they had there, for the recovery of him, who so valiant a Cham<g ref="char:EOLhyphen"/>pion in Plundering) they carried him towards <hi>Oxford:</hi> Mistris <hi>Phillips,</hi> (the wife of Master <hi>Phillips,</hi>) one of the Magistrates of the towne of <hi>Banbury,</hi> having notice thereof, procured a Messenger (by name <hi>William Needle</hi>) to goe to <hi>Bister,</hi> where the Parliaments Forces were quartered, and acquaint them with the intended journey of Captaine <hi>Trist,</hi> that so by the way, he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be apprehended as an enemy to the State, and the grand
+<pb n="2" facs="tcp:158411:3"/> disturber of the peace of that County, by many horrid outrages there committed.</p>
+            <p>But the messenger unawares lighting on a party of the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that were scouring abroad, was by them taken and examined whether he was going, at first he gave them some slight answer; whereupon one <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the said Souldiers faining himselfe to be for the Parliament, cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sing the Cavileers and the Kings Army (as little else they deserve, being for the most part the scumme and refuse of Christendome, to the dishonour of this Nation) easily perswaded the messenger to beleeve, that he professed himselfe to be, which so wrought upon him, that he discovered his busi<g ref="char:EOLhyphen"/>nesse: immediately after he was carried by them as a prisoner to <hi>Banbury</hi> (a usuall requitall when their own turns are served) before Colonell <hi>Hunks</hi> Governour of that miserable (Gari<g ref="char:EOLhyphen"/>son) Towne being examined, and confessing by whom he was sent, he was forthwith sent himselfe to the Castle a close pri<g ref="char:EOLhyphen"/>soner, where he endured no little hardship.</p>
+            <p>No<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long after Mistresse <hi>Phillips</hi> was sent for, who was found playing the good huswife at home (a thing much out of fashi<g ref="char:EOLhyphen"/>on) and examined before the said Governour, it being asked her why she sent to have Captaine <hi>Trist</hi> taken, she answered be<g ref="char:EOLhyphen"/>cause he was an enemy to the State, and a great oppressour of the Kings good Subjects, contrary to His Majesties Proclama<g ref="char:EOLhyphen"/>tion, Pillaging and Plundring, yea killing where he findes op<g ref="char:EOLhyphen"/>position, and impudently boasting of both when he hath so done, (as if he had devised some new way to make himselfe more famous then <hi>Nero</hi> for his cruelty by outmatching the divel his Master in malice and villanie) for which Mistresse <hi>Phillips</hi> was committed close prisoner to the Castle, notwithwanding good Bayle was offered for her enlargment: what misery here<g ref="char:EOLhyphen"/>by this poor wom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n sustained let them imagine who have but common sparks of humanity, for beside her imprisonment, her Hu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>band (whom might she have injoyed, would have lightned her sorrow) was driven long before from the Towne, fearing to
+<pb n="3" facs="tcp:158411:3"/> fall (as well he might) into the hands of those whose mercies we finde are cruelties: further, she was to care for ten children, the most of them being small, one whereof she at the same time <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uckled, her shop (which inabled her to keep all those) was ransack'd, together with fourteen pounds of money taken away at the same time, her house was plundred of e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y thing that was oughts-worth, yet notwithstanding horse and men were billited with her, when she could scarse get bread e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough for her selfe and family, without the charity of her neighbours.</p>
+            <p>Mistresse <hi>Phillips</hi> and <hi>William Needle</hi> being imprisoned the tenth of <hi>March,</hi> were called before a Counsell of Warre the eleventh of the said Moneth, at which time sentence of death was given on them both: and upon Tuesday the fourteenth of <hi>March</hi> they were brought to the place of execution in the Mar<g ref="char:EOLhyphen"/>ket-place, where this Proclamation was published, viz.</p>
+            <p>William Needle <hi>by the procurement of</hi> Elizabeth Phillips <hi>for going about to surprise the body and goods of Capiaine</hi> Trist, <hi>is to hang by the neck untill he be dead:</hi> which was accordingly done.</p>
+            <p>Mistresse <hi>Phillips</hi> not knowing but her turne was next, stand<g ref="char:EOLhyphen"/>ing all the while with a halter about her neck over against the Gallowes, a Souldier would have put the halter under her Handkerchife, but she would no suffer him, speaking with a very audible voice, <hi>I am not ashamed to suffer reproach and shame in this cause.</hi> A brave resolution! beseeming a nobler Sex, and not unfit to be registred in the Book of Martyrs; but her chil<g ref="char:EOLhyphen"/>dren being about her and much lamenting their Mothers de<g ref="char:EOLhyphen"/>plorable condition, There came a Lieutenant (by name <hi>Poul<g ref="char:EOLhyphen"/>ney</hi>) whose life made good his profession: He was an <hi>Irish</hi> re<g ref="char:EOLhyphen"/>bell (as he impudently confesseth) since his being in <hi>England</hi> he hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>often bragged of his cruelty he hath acted in that dying Kingdome, wishing to see the like here, and still is a barba<g ref="char:EOLhyphen"/>rous, inhumane, savage man; nay, a monster of Man-kinde, witnesse his Speech to the poore Children; <hi>Yee are bound to
+<pb n="4" facs="tcp:158411:4"/> curse your Mother:</hi> forgetting the curse God hath pronoun<g ref="char:EOLhyphen"/>ced to all such disobedient children; that the Ravens of the Valleyes shall picke out their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes, and the yong Eagles ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them: a fit punishment for that goggle▪ eyed, bastard-bred fellow; who to compleat Mistris <hi>Phillips</hi> disgrace, caused her to be led about the Market-place with much derision, and so carried her to prison againe: where I leave her.</p>
+            <p>It is not impertinent to acquaint the Reader with the manner of <hi>Needles</hi> life and death, both which did correspond each with other; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> life was honest and unblameable, steering the course thereof by his Religion, which he was not ashamed to professe when he suffered death for the same.</p>
+            <p>As he was endued with no meane gifts of the minde, which made him beloved of all good people, so were they not lesse eminent, when he was called to suffer, witnesse his patience and meeknesse, from the time of his imprisonment, to the last minute of his life.</p>
+            <p>It being demanded when he stood upon the ladder, why he sought to surprize Captaine <hi>Trist;</hi> he (neither denied nor ex<g ref="char:EOLhyphen"/>cused what he had done) and immediately returned this answer. He took <hi>Trist</hi> to be an enemy to the Church of God, peace of this Kingdome, and the quiet of that place where he was: But being accused by (that Grand Rebell) <hi>Poultney,</hi> that he was a traytor to the King; he replied, he was no traytor, nor ever had an ill thought of the King, but did constantly and heartily pray for the Kings preservation, the Queenes conversion, and their Prosperities happinesse.</p>
+            <p>Yea, he restified further his loyalty to his Prince, by assen<g ref="char:EOLhyphen"/>ting to His Majesties Proclamation, that whosoever plundered or pillaged, should be prosecuted according to Law; he know<g ref="char:EOLhyphen"/>ing the above named <hi>Trist</hi> to be notoriously guilty of both, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it his trade, to terrifie women and children where he <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>g his pistol against their brests, and laying <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who refused to give him what he as<g ref="char:EOLhyphen"/>ked
+<pb n="5" facs="tcp:158411:4"/> for.) He sought to have him punished by Law, for making void the Kings Proclamation any false his word, but see how he was recompenced, in going about to bring an offender to pu<g ref="char:EOLhyphen"/>nishment according to Law, he was hanged with a halter con<g ref="char:EOLhyphen"/>trary to Law, a reward all honest men must looke for, if they come within their clutches. But <hi>Needle</hi> being to take his leave of the world, casting his eyes about him, and espying some de<g ref="char:EOLhyphen"/>jected countenances, and weeping eyes (as he thought) for his sake, recalling his spirits, shewing a brave act of valour in con<g ref="char:EOLhyphen"/>temning death, spake as followes:</p>
+            <p>I would not have Gods people discouraged, or thinke the worse of this cause wherein I suffer; nor mourne, nor grieve for my death, for as I have testified to the world I lived Gods child, so I declare to you I die his servant.</p>
+            <p>But being about to speake, that the enemies of Gods people would laugh at this cause, and rejoyce at his death: he was in<g ref="char:EOLhyphen"/>terrupted by <hi>Poultney</hi> (an enemy to all goodnesse and now the plague of <hi>Banbury</hi>) who asked him if he thought the Counsell of warre that condemned him, were the enemies of Gods peo<g ref="char:EOLhyphen"/>peple.</p>
+            <p>He answered, those that are enemies to God, are enemies to Gods people.</p>
+            <p>Hereupon a Bible was sent for, for <hi>Needle</hi> to sing and pray in before he died, which had not the Common Prayer-book in it; whereupon <hi>Poultney</hi> (that blaspheming wretch) cursed the peo<g ref="char:EOLhyphen"/>ple, saying, there was not one booke of▪ ten, that had the Com<g ref="char:EOLhyphen"/>mon Prayer, or Apocrapha in them.</p>
+            <p>The Executioner being about to turne <hi>Needle</hi> off the ladder, <hi>Poultney</hi> (A man very active in the Divels service) bid him hold a while, for he must goe to the Counsell of warre: in the meanetime <hi>Needle</hi> put his hand in his pocket, and pulling out halfe a crowne, called to one of Mistresse <hi>Phillips</hi> daughters, and gave it to her to keep in remembrance of him; which te<g ref="char:EOLhyphen"/>stified
+<pb n="6" facs="tcp:158411:5"/> his true Charity to Mistresse <hi>Phillips,</hi> though she was partly a cause of his suffering.</p>
+            <p>
+               <hi>Poultney</hi> asking the Counsell of warre, what they should doe with that man, whether they should hang him or no? Was an<g ref="char:EOLhyphen"/>swered, if he will not confesse, hang him, when he had confessed all before.</p>
+            <p>
+               <hi>Poultney</hi> returning, bids the executioner doe his office (a fit<g ref="char:EOLhyphen"/>ter imployment for himselfe) <hi>Needle</hi> seeing he was to be sacri<g ref="char:EOLhyphen"/>ficed, to the fury and malice of his adversaries, did not so much as shrink or shiver, to the wonderment of the spectators, but bid the world heartily adiew; and so was turned off, he hanged untill he was dead, and a great while longer; but at length was cut downe by the sword of a Gentleman, one of the Kings soul<g ref="char:EOLhyphen"/>diers; who looking on the corps was much grieved, saying he was perswaded that his soule was gone to Heaven, and that he being unjustly executed, his innocent blood would be required at their hands, which God being on the head of all those, who had a hand in his death.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
